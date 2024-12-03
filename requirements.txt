@@ -1,0 +1,13 @@
+langchain
+langchain-openai
+langchain-community
+langchain-chroma
+tiktoken
+FastAPI
+uvicorn
+pyngrok
+nest_asyncio
+aiofiles
+pandas
+numpy
+regex
